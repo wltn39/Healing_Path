@@ -1,0 +1,5 @@
+{
+  "name": "LinguaPath Learning App",
+  "description": "A language learning application interface inspired by popular gamified learning platforms. It features a visual path of lessons, user stats, and navigation controls.",
+  "requestFramePermissions": []
+}
